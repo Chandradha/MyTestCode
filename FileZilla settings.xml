@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <FileZilla>
 <Settings>
-<Item name="Logontype" type="numeric">0</Item>
+<Item name="Logontype" type="numeric">10</Item>
 <Item name="Pasv" type="numeric">1</Item>
 <Item name="FWHost" type="string"/>
 <Item name="FWPort" type="numeric">0</Item>
