@@ -18,7 +18,7 @@
 <Item name="Last Server User" type="string">aio</Item>
 <Item name="Last Server Pass" type="string">032000093001085069005079</Item>
 <Item name="Proxy Type" type="numeric">0</Item>
-<Item name="Proxy Host" type="string"/>
+  <Item name="Proxy Host" type="string">test</item>
 <Item name="Proxy Port" type="numeric">0</Item>
 <Item name="Proxy User" type="string"/>
 <Item name="Proxy Pass" type="string"/>
